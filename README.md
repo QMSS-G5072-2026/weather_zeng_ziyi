@@ -1,3 +1,4 @@
+[![CI](https://github.com/QMSS-G5072-2026/weather_zeng_ziyi/actions/workflows/ci.yml/badge.svg)](https://github.com/QMSS-G5072-2026/weather_zeng_ziyi/actions/workflows/ci.yml)
 # weather_zz3540
 
 A Python package for cleaning and summarizing weather temperature data.
